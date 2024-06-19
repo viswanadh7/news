@@ -1,0 +1,52 @@
+body{
+    background-color: wheat;
+}
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+}
+.heading span{
+    color: red;
+}
+.navbarLogo{
+    margin-bottom: auto;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+    font-size: 30px;
+}
+.navbarHeight{
+    height: 55px;
+}
+.navbarItems p{
+    margin-bottom: auto;
+    color: white;
+    cursor: pointer;
+}
+.navbarItems p:hover{
+    color: red;
+}
+#newscard{
+    margin-top: 40px;
+    height: 500px;
+    width: 400px;
+    margin-left: 40px;
+}
+#childnewscard{
+    height: 100%;
+}
+#newscard img{
+    height: 200px;
+    width: 100%;
+}
+#newscard a{
+    width: 150px;
+    background-color:white;
+    box-shadow: 2px 2px 3px rgba(112, 111, 111, 0.645);
+    text-align: center;
+    color: black;
+    
+}
+#newscard i{
+    padding-left: 10px;
+}
